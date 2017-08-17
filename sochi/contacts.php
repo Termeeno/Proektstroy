@@ -30,7 +30,7 @@
 		<font color="#353537" size="5">Контакты</font><br/><br/>
 		<font color="#59010B" size="4">Приемная:</font><br/>
 		Юлия Борисовна 89882898865<br/><br/>
-		<font color="#59010B" size="4">Адрес:</font>г.Сочи, ул.Советская, дом 40, 1 этаж, офис 2.<br/>
+		<font color="#59010B" size="4">Адрес:</font>г.Сочи, ул.Советская, дом 40, 1 этаж, офис 1.<br/>
 		<font color="#59010B" size="4">Эл.почта:</font> proectstroy-subb@mail.ru
 		</div> 
 		<div class="mapblock">
