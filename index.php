@@ -22,7 +22,6 @@
 				<a href="self.php" style="color: #F4FBF6; font-size: 28px; float: right; text-decoration: none;"/>ВАШ ГОРОД:</a>
 		</div>
 		<div class="sliderblock">
-		Блок новостей<br/>
 		<?php
 		$url="http://ancb.ru";
 		$out = file_get_contents($url);
