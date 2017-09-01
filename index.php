@@ -4,12 +4,11 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>"Проектстрой"</title>
 <link href="style.css" rel="stylesheet" type="text/css" />
-<!-- RedConnect -->
-<script id="rhlpscrtg" type="text/javascript" charset="utf-8" async="async"
-src="https://web.redhelper.ru/service/main.js?c=evgensvatkov"></script>
-<div style="display: none"><a class="rc-copyright" 
-href="http://redconnect.ru">Обратный звонок</a></div>
-<!--/RedConnect -->
+<!-- RedHelper -->
+<script id="rhlpscrtg" type="text/javascript" charset="utf-8" async="async" 
+	src="https://web.redhelper.ru/service/main.js?c=alessaria">
+</script> 
+<!--/Redhelper -->
 </head>
 <body>
 <img src="images/header.png" alt="Geoplan" width="1080" height="135" class="header" />
