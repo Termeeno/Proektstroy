@@ -4,13 +4,18 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>"Документы"</title>
 <link href="style.css" rel="stylesheet" type="text/css" />
+<!-- RedConnect -->
+<script id="rhlpscrtg" type="text/javascript" charset="utf-8" async="async"
+src="https://web.redhelper.ru/service/main.js?c=evgensvatkov"></script>
+<div style="display: none"><a class="rc-copyright" 
+href="http://redconnect.ru">Обратный звонок</a></div>
+<!--/RedConnect -->
 </head>
 <body>
 <img src="images/header.png" alt="Geoplan" width="1080" height="135" class="header" />
 <div class="mainblock">
 		<div class="menu">
 		<a href="index.php" style="color: #F4FBF6; font-size: 28px; float: left; text-decoration: none;"/>&nbsp;&nbsp;&nbsp;НА ГЛАВНУЮ</a>
-		<a href="self.php" style="color: #F4FBF6; font-size: 28px; float: center; text-decoration: none;"/>ЗАКАЗАТЬ ОБРАТНЫЙ ЗВОНОК</a>
 		<ul id="navbar">
   		<li><a href="#">ЧИТА</a>
     		<ul>
@@ -38,7 +43,8 @@
 </div>
 	
 <div class="footerblock">
-Текст в подвальчике
+Приемная: тел. 8-914-470-82-24<br/>
+График работы: Пн-Чт - с 9.00 до 18.00, обед- с13.00 до 14.00, Птн- с 9.00 до 17.00
 </div>
 </form>
 </body>
