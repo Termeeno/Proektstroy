@@ -71,7 +71,7 @@
 
   		}
   		if (empty($page)) {
-		$text='<img src="images/price.png" alt="Kadastr" width="302" height="86"/>';
+		$text='<a href="docs/services.pdf" style="text-decoration: none;"/><img src="images/price.png" alt="Kadastr" width="302" height="86"/></a>';
 		}
 		?>
 		<div class="serviceblock" style="float: left;"><a href="services.php?page=mezhevanie" style="font-size: 20px; color: #080707; text-decoration: none;"/><img src="images/arrowdown.png" alt="Kadastr" width="107" height="51" style="float: center;"/>МЕЖЕВАНИЕ</a></div>
