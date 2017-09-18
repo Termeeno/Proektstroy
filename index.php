@@ -23,7 +23,7 @@
     	</ul>
   			</li>
 				</ul>
-				<a href="self.php" style="color: #F4FBF6; font-size: 28px; float: right; text-decoration: none;"/>ВАШ ГОРОД:</a>
+				<a style="color: #F4FBF6; font-size: 28px; float: right; text-decoration: none;"/>ВАШ ГОРОД:</a>
 		</div>
 		<div class="sliderblock">
 		<?php
