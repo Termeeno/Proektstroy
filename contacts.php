@@ -35,7 +35,7 @@
 		<font color="#353537" size="5">Контакты</font><br/><br/>
 		<font color="#59010B" size="4">Приемная:</font><br/>
 		Ксения Александровна 8-914-470-82-24<br/><br/>
-		<font color="#59010B" size="4">Адрес:</font>г.Чита, ул.9-января,37, т,ц  Экран, 1 этаж, оф.2<br/>
+		<font color="#59010B" size="4">Адрес:</font>г.Чита, ул.9-января,37, т,ц  Экран, 1 этаж, оф.9<br/>
 		<font color="#59010B" size="4">Эл.почта:</font> proectstroy-subb@mail.ru
 		</div> 
 		<div class="mapblock">

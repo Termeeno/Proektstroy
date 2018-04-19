@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>"Контакты"</title>
+<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<input type="number" name="finish" id="finish" placeholder="Предел"><br/>
+<input type="button" id="buttonid" onclick="resulteven()" value="Показать четные"><br/>
+<input type="button" id="buttonid" onclick="resultodd()" value="Показать нечетные">
+<script>
+	function resulteven()
+	{
+	var var1=0;
+	var finish=document.getElementById('finish').value;
+	var end=0;
+	while (var1<finish) {
+		var1=var1+2;
+		end=end+", "+var1;
+
+	}
+	document.write(end);
+}
+function resultodd()
+	{
+	var var1=1;
+	var finish=document.getElementById('finish').value;
+	var end=1;
+	while (var1<finish) {
+		var1=var1+2;
+		end=end+", "+var1;
+
+	}
+	document.write(end);
+}
+</script>
+</body>
+</html>
